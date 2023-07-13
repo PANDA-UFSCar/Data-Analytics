@@ -1,2 +1,3 @@
-# analytics_aula_introdutoria
-Aula Introdutória do Grupo de Analytics do PANDA.
+# Data Analytics
+
+Repositório dedicado ao armazenamento dos conteúdos gerados pelo grupo de estudos de Data Analytics do Panda.
